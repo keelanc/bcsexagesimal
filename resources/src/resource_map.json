@@ -1,0 +1,20 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+
+        {
+        "type": "font",
+        "defName": "FONT_GOTHAM_BOLD_24",
+        "file": "fonts/Gotham-Bold.ttf"
+        },
+        
+           
+       {
+       "type": "font",
+       "defName": "FONT_GOTHAM_LIGHT_24",
+       "file": "fonts/Gotham-Light.ttf"
+       }
+
+ ]
+}
